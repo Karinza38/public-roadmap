@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/307597/154772945-1b7dba5f-21cf-41d0-bb2e-65b6eff4aaaf.png" width="30" /> SerpApi Public Roadmap
+<img src="https://user-images.githubusercontent.com/307597/154772945-1b7dba5f-21cf-41d0-bb2e-65b6eff4aaaf.png" width="30" /> SerpApi Public Roadmap
 
 This issue-only repository is our public roadmap for SerpApi, LLC.
 
